@@ -1,2 +1,3 @@
-# PWJS-00
-Clase avanzada de JS
+# Programacion Web Avanzada con JavaScript
+
+Powered by EANT
